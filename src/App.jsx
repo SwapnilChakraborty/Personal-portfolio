@@ -5,6 +5,7 @@ import SocialLinks from './components/SocialLinks'
 import About from './components/About'
 import Portfolio from './components/Portfolio'
 import Experience from './components/Experience'
+
 const App = () => {
   return (
     <div>

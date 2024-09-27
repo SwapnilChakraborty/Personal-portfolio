@@ -12,7 +12,9 @@ const About = () => {
            </p>
             <br />
             <p className='text-xl'>
-                I am a Full Stack Web Developer. I love to create beautiful and interactive websites.
+                I am a Btech Computer science student (2024). I am passionate about creating user-friendly experiences, and I love what I do. Here is 
+                my portfolio.
+               
             </p>
         </div>
     </div>
